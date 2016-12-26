@@ -1,0 +1,3390 @@
+[
+  {
+    "className": "ExampleClass0",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property5",
+        "type": "integer",
+        "format": "int32"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass1",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property3",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass2",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property4",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property5",
+        "type": "boolean"
+      },
+      {
+        "name": "Property6",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property7",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property8",
+        "type": "boolean"
+      },
+      {
+        "name": "Property9",
+        "type": "integer",
+        "format": "int32"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass3",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property3",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property4",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property5",
+        "type": "boolean"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property7",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property8",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property9",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass4",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property1",
+        "type": "boolean"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property4",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property5",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property6",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property7",
+        "type": "number",
+        "format": "double"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass5",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property4",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property5",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property6",
+        "type": "number",
+        "format": "double"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass6",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass7",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass8",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property4",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property5",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property6",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property7",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass9",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property3",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass10",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "float"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass11",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "string"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass12",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property3",
+        "type": "boolean"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property5",
+        "type": "boolean"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "date"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass13",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property4",
+        "type": "boolean"
+      },
+      {
+        "name": "Property5",
+        "type": "boolean"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property7",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property8",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property9",
+        "type": "string",
+        "format": "date"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass14",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property5",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property7",
+        "type": "string",
+        "format": "date"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass15",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property1",
+        "type": "boolean"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property6",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass16",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "boolean"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property3",
+        "type": "boolean"
+      },
+      {
+        "name": "Property4",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass17",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property4",
+        "type": "boolean"
+      },
+      {
+        "name": "Property5",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property6",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property7",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property8",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property9",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass18",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "double"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass19",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property1",
+        "type": "boolean"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int32"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass20",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property4",
+        "type": "boolean"
+      },
+      {
+        "name": "Property5",
+        "type": "string",
+        "format": "date"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass21",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "boolean"
+      },
+      {
+        "name": "Property4",
+        "type": "boolean"
+      },
+      {
+        "name": "Property5",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass22",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property1",
+        "type": "boolean"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property3",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property4",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass23",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property5",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property6",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property7",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property8",
+        "type": "boolean"
+      },
+      {
+        "name": "Property9",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass24",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "double"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass25",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property3",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property4",
+        "type": "boolean"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property6",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass26",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "boolean"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property3",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property6",
+        "type": "boolean"
+      },
+      {
+        "name": "Property7",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property8",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property9",
+        "type": "number",
+        "format": "float"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass27",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "boolean"
+      },
+      {
+        "name": "Property4",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property5",
+        "type": "boolean"
+      },
+      {
+        "name": "Property6",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property7",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property8",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property9",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass28",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property4",
+        "type": "boolean"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property6",
+        "type": "boolean"
+      },
+      {
+        "name": "Property7",
+        "type": "integer",
+        "format": "int32"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass29",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "boolean"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property4",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass30",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property7",
+        "type": "boolean"
+      },
+      {
+        "name": "Property8",
+        "type": "boolean"
+      },
+      {
+        "name": "Property9",
+        "type": "integer",
+        "format": "int32"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass31",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property5",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property6",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass32",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "float"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass33",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "float"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass34",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int32"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass35",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property4",
+        "type": "boolean"
+      },
+      {
+        "name": "Property5",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property6",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property7",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property8",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property9",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass36",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property5",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property6",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property7",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass37",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property3",
+        "type": "boolean"
+      },
+      {
+        "name": "Property4",
+        "type": "boolean"
+      },
+      {
+        "name": "Property5",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property6",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass38",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property3",
+        "type": "string",
+        "format": "string"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass39",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property5",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property6",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass40",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "string"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass41",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "boolean"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "string"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass42",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass43",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "string"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass44",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass45",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property1",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass46",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "double"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass47",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass48",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass49",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "float"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass50",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property5",
+        "type": "string",
+        "format": "string"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass51",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "date"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass52",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property3",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property4",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property5",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass53",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "date"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass54",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property1",
+        "type": "boolean"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property5",
+        "type": "boolean"
+      },
+      {
+        "name": "Property6",
+        "type": "boolean"
+      },
+      {
+        "name": "Property7",
+        "type": "boolean"
+      },
+      {
+        "name": "Property8",
+        "type": "string",
+        "format": "string"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass55",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property4",
+        "type": "boolean"
+      },
+      {
+        "name": "Property5",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass56",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "double"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass57",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass58",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property1",
+        "type": "boolean"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property5",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property6",
+        "type": "boolean"
+      },
+      {
+        "name": "Property7",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass59",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property4",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property5",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass60",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property3",
+        "type": "string",
+        "format": "string"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass61",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "boolean"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property3",
+        "type": "boolean"
+      },
+      {
+        "name": "Property4",
+        "type": "boolean"
+      },
+      {
+        "name": "Property5",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property6",
+        "type": "boolean"
+      },
+      {
+        "name": "Property7",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property8",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass62",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property1",
+        "type": "boolean"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "double"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass63",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property3",
+        "type": "boolean"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property5",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property6",
+        "type": "boolean"
+      },
+      {
+        "name": "Property7",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property8",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property9",
+        "type": "integer",
+        "format": "int32"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass64",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property5",
+        "type": "boolean"
+      },
+      {
+        "name": "Property6",
+        "type": "boolean"
+      },
+      {
+        "name": "Property7",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property8",
+        "type": "boolean"
+      },
+      {
+        "name": "Property9",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass65",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "date"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass66",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property5",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "string"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass67",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property3",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property5",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property7",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property8",
+        "type": "number",
+        "format": "double"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass68",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "float"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass69",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property7",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property8",
+        "type": "boolean"
+      },
+      {
+        "name": "Property9",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass70",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int32"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass71",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass72",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "boolean"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property3",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property5",
+        "type": "string",
+        "format": "date"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass73",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "double"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass74",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass75",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property5",
+        "type": "boolean"
+      },
+      {
+        "name": "Property6",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property7",
+        "type": "boolean"
+      },
+      {
+        "name": "Property8",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property9",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass76",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property5",
+        "type": "boolean"
+      },
+      {
+        "name": "Property6",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property7",
+        "type": "integer",
+        "format": "int32"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass77",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property1",
+        "type": "boolean"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "date"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass78",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass79",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "boolean"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property5",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass80",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property7",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property8",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass81",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property4",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property7",
+        "type": "integer",
+        "format": "int32"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass82",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "boolean"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property6",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property7",
+        "type": "boolean"
+      },
+      {
+        "name": "Property8",
+        "type": "boolean"
+      },
+      {
+        "name": "Property9",
+        "type": "number",
+        "format": "double"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass83",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass84",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property4",
+        "type": "boolean"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property6",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property7",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass85",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "boolean"
+      },
+      {
+        "name": "Property4",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property5",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property7",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass86",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property5",
+        "type": "boolean"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property7",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property8",
+        "type": "string",
+        "format": "date"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass87",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property1",
+        "type": "boolean"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property4",
+        "type": "boolean"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property6",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property7",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property8",
+        "type": "integer",
+        "format": "int32"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass88",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "double"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass89",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass90",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int32"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass91",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property2",
+        "type": "boolean"
+      },
+      {
+        "name": "Property3",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property4",
+        "type": "boolean"
+      },
+      {
+        "name": "Property5",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property6",
+        "type": "integer",
+        "format": "int32"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass92",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property1",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property2",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property3",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property4",
+        "type": "integer",
+        "format": "int64"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass93",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property5",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property7",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property8",
+        "type": "boolean"
+      },
+      {
+        "name": "Property9",
+        "type": "boolean"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass94",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "double"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property3",
+        "type": "boolean"
+      },
+      {
+        "name": "Property4",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property5",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property6",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property7",
+        "type": "number",
+        "format": "float"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass95",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "date"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass96",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property1",
+        "type": "boolean"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int32"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property5",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property6",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property7",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property8",
+        "type": "string",
+        "format": "date"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass97",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property3",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property4",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property5",
+        "type": "integer",
+        "format": "int32"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass98",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property1",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property2",
+        "type": "number",
+        "format": "float"
+      },
+      {
+        "name": "Property3",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property4",
+        "type": "number",
+        "format": "double"
+      }
+    ]
+  },
+  {
+    "className": "ExampleClass99",
+    "properties": [
+      {
+        "name": "Property0",
+        "type": "integer",
+        "format": "int64"
+      },
+      {
+        "name": "Property1",
+        "type": "string",
+        "format": "date"
+      },
+      {
+        "name": "Property2",
+        "type": "string",
+        "format": "string"
+      },
+      {
+        "name": "Property3",
+        "type": "boolean"
+      }
+    ]
+  }
+]

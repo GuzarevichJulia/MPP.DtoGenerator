@@ -1,0 +1,9 @@
+D:\Учёба\Семестр 5\СПП\Lab2\DTO_Generator_Test\DTO_Generator\bin\Debug\DTO_Generator.dll
+D:\Учёба\Семестр 5\СПП\Lab2\DTO_Generator_Test\DTO_Generator\bin\Debug\DTO_Generator.pdb
+D:\Учёба\Семестр 5\СПП\Lab2\DTO_Generator_Test\DTO_Generator\obj\Debug\DTO_Generator.dll
+D:\Учёба\Семестр 5\СПП\Lab2\DTO_Generator_Test\DTO_Generator\obj\Debug\DTO_Generator.pdb
+D:\Учёба\Семестр 5\СПП\Lab2\DTO_Generator_Test\DTO_Generator\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\Учёба\Семестр 5\СПП\Lab2\DTO_Generator_Test\DTO_Generator\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\Учёба\Семестр 5\СПП\Lab2\DTO_Generator_Test\DTO_Generator\bin\Debug\System.Collections.Immutable.dll
+D:\Учёба\Семестр 5\СПП\Lab2\DTO_Generator_Test\DTO_Generator\bin\Debug\System.Reflection.Metadata.dll
+D:\Учёба\Семестр 5\СПП\Lab2\DTO_Generator_Test\DTO_Generator\obj\Debug\DTO_Generator.csprojResolveAssemblyReference.cache
